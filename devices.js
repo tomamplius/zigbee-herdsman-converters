@@ -5073,7 +5073,7 @@ const devices = [
         extend: preset.light_onoff_brightness_color(),
     },
 
-    // M-ELEC - https://melec.com.au/stitchy/
+    // M-ELEC
     {
         zigbeeModel: ['ML-ST-D200'],
         model: 'ML-ST-D200',
@@ -15592,7 +15592,7 @@ const devices = [
         },
     },
 
-    // BTicino (Legrand brand)
+    // BTicino
     {
         zigbeeModel: [' Light switch with neutral\u0000\u0000\u0000\u0000\u0000'],
         model: 'K4003C/L4003C/N4003C/NT4003C',
@@ -17017,7 +17017,7 @@ const devices = [
         ],
     },
 
-    // QMotion products - http://www.qmotionshades.com/
+    // QMotion
     {
         zigbeeModel: ['Rollershade QdR'],
         model: 'QZR-ZIG2400',
